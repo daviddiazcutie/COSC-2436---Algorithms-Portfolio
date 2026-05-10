@@ -2,7 +2,7 @@
 
 ## Student Information
 - **Name:** David Diaz Cutie
-- **Date:** 03.03.26
+- **Date:** 03/03/26
 - **Course:** COSC 2436
 
 ## Key Concepts
