@@ -1,0 +1,22 @@
+[
+  {"name": "Houston", "population": 2304580},
+  {"name": "San Antonio", "population": 1547253},
+  {"name": "Dallas", "population": 1304379},
+  {"name": "Austin", "population": 978908},
+  {"name": "Fort Worth", "population": 918915},
+  {"name": "El Paso", "population": 681728},
+  {"name": "Arlington", "population": 398854},
+  {"name": "Corpus Christi", "population": 326586},
+  {"name": "Plano", "population": 287677},
+  {"name": "Laredo", "population": 261639},
+  {"name": "Lubbock", "population": 258862},
+  {"name": "Garland", "population": 239928},
+  {"name": "Irving", "population": 239798},
+  {"name": "Amarillo", "population": 199826},
+  {"name": "Grand Prairie", "population": 196100},
+  {"name": "McKinney", "population": 195308},
+  {"name": "Brownsville", "population": 183392},
+  {"name": "Killeen", "population": 153095},
+  {"name": "Pasadena", "population": 151950},
+  {"name": "McAllen", "population": 142210}
+]
