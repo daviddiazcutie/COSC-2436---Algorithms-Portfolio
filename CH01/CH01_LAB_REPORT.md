@@ -2,7 +2,7 @@
 
 ## Student Information
 - **Name:** David Diaz Cutie
-- **Date:** 01/21/2026
+- **Date:** 02/01/2026
 - **Course:** COSC 2436
 
 ## Algorithm Summary
